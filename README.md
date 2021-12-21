@@ -1,6 +1,6 @@
 ### Hi there, I'm Jen! 👋
 
-## I'm a wife, dog momma, self taught developer, and teacher!
+## I'm a Wife, Dog Mom, Self Taught Developer, and Teacher!
 
 - 🔭 I’m currently working on The Modern React Bootcamp on Udemy and my own events based website
 - 🌱 I’m currently learning React
