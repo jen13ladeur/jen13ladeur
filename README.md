@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on The Modern React Bootcamp on Udemy and my own events based website
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate with other junior and senior developers
-- :eight_pointed_black_star: 2022 Goals: To obtain a junior developer role and continue working on my skills
+- :eight_pointed_black_star: 2022 Goals: To become a remote junior developer
 - 📫 How to reach me: jwong1813@gmail.com
 - ⚡ Fun facts: I love dancing, being outdoors, and coffee! I am also a former elementary education teacher of 8yrs!
 
