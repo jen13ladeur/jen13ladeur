@@ -5,9 +5,9 @@
 - 🔭 I’m currently working on The Modern React Bootcamp on Udemy and my own events based website
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate with other junior and senior developers
-- :eight_pointed_black_star: 2022 Goals: To become a remote junior developer
+- :eight_pointed_black_star: 2022 Goals: To become a 100% remote junior developer in JS, React, or any Full Stack technologies!
 - 📫 How to reach me: jwong1813@gmail.com
-- ⚡ Fun facts: I love dancing, being outdoors, and coffee! I am also a former elementary education teacher of 8yrs!
+- ⚡ Fun facts: I love dancing, being outdoors, and coffee! I am also a former elementary education teacher of 8yrs.
 
 ### Connect with me:
 [<img align="left" alt="jen13ladeur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jen-ladeur-25235360)
