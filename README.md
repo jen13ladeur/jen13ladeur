@@ -2,15 +2,15 @@
 
 ## I'm a Wife, Dog Mom, Self Taught Developer, and Teacher!
 
-- 🔭 I’m currently working on The Modern React Bootcamp on Udemy and my own events based website
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate with other junior and senior developers
+- 🔭 I’m currently working on The Modern React Bootcamp on Udemy and my own events based website.
+- 🌱 I’m currently learning React.
+- 👯 I’m looking to collaborate with other junior and senior developers to improve my skill set.
 - :eight_pointed_black_star: 2022 Goals: To become a 100% remote junior developer in JS, React, or any Full Stack technologies!
-- 📫 How to reach me: jwong1813@gmail.com
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jenladeur)
 - ⚡ Fun facts: I love dancing, being outdoors, and coffee! I am also a former elementary education teacher of 8yrs.
 
 ### Connect with me:
-[<img align="left" alt="jen13ladeur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jen-ladeur-25235360)
+[<img align="left" alt="jen13ladeur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jenladeur)
 [<img align="left" alt="jen13ladeur | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/jenwong.ladeur/)
 
 <br/>
